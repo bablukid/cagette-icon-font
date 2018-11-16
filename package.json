@@ -1,0 +1,24 @@
+{
+  "name": "cagette-icon-font",
+  "version": "1.0.0",
+  "description": "Cagette.net Icon Font",
+  "main": "index.js",
+  "dependencies": {
+    "icon-font-generator": "^2.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"makefont":"icon-font-generator icons/*.svg -o font"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bablukid/cagette-icon-font.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bablukid/cagette-icon-font/issues"
+  },
+  "homepage": "https://github.com/bablukid/cagette-icon-font#readme"
+}
