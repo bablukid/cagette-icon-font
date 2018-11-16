@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?e8806e2ecc70762d585552eb0b537a9a?#iefix") format("embedded-opentype"),
-url("./icons.woff2?e8806e2ecc70762d585552eb0b537a9a") format("woff2"),
-url("./icons.woff?e8806e2ecc70762d585552eb0b537a9a") format("woff"),
-url("./icons.ttf?e8806e2ecc70762d585552eb0b537a9a") format("truetype"),
-url("./icons.svg?e8806e2ecc70762d585552eb0b537a9a#icons") format("svg");
+    src: url("./icons.eot?b0edd78dce89b9253720fa39a9728f29?#iefix") format("embedded-opentype"),
+url("./icons.woff2?b0edd78dce89b9253720fa39a9728f29") format("woff2"),
+url("./icons.woff?b0edd78dce89b9253720fa39a9728f29") format("woff"),
+url("./icons.ttf?b0edd78dce89b9253720fa39a9728f29") format("truetype"),
+url("./icons.svg?b0edd78dce89b9253720fa39a9728f29#icons") format("svg");
 }
 
 i {
@@ -25,6 +25,12 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-calendar-check-solid:before {
     content: "\f101";
 }
-.icon-truck-solid:before {
+.icon-cheque:before {
     content: "\f102";
+}
+.icon-euro_icon:before {
+    content: "\f103";
+}
+.icon-truck-solid:before {
+    content: "\f104";
 }
