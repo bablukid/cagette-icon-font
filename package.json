@@ -8,8 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-	"test": "echo \"Error: no test specified\" && exit 1",
-	"makefont":"icon-font-generator icons/*.svg -o font"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "makefont": "icon-font-generator icons/*.svg -o font"
   },
   "repository": {
     "type": "git",
